@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Bad Apple!!",
+    "description": "Bad Apple!!",
+    "version": "0.1",
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["https://pictsense.com/"],
+    "action": {
+        "default_icon": "icon46.png",
+        "default_popup": "popup.html"
+    }
+}
