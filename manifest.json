@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Bad Apple!!",
-    "description": "Bad Apple!!",
+    "name": "canvas Bad Apple!!",
+    "description": "webページ上のcanvas要素全てでBad Apple!!を再生します",
     "version": "0.0.2",
     "permissions": ["activeTab", "scripting"],
     "action": {
