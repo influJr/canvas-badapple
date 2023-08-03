@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Bad Apple!!",
     "description": "Bad Apple!!",
-    "version": "0.1",
+    "version": "0.0.1",
     "permissions": ["activeTab", "scripting"],
     "host_permissions": ["https://pictsense.com/"],
     "action": {
